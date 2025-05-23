@@ -4,12 +4,12 @@
 }
 
 .section-body-2 {
-  color: #bf77f6;
+  color: #ffffff;
   height: 150vh;
 }
 
 .section-body-3 {
-  color: #bf77f6;
+  color: #ffffff;
 }
 
 .section-top-bottom{
@@ -54,7 +54,7 @@
 }
 
 .section-2 {
-  background-color: #240032;
+  background-color: #03327a;
 }
 
 .section-3 {
@@ -62,7 +62,7 @@
 }
 
 .accordion-header-section {
-  background-color: #240032;
+  background-color: #03327a;
   color: #ffffff;
 }
 
@@ -106,14 +106,14 @@
 
 /* navar color */
 .navbar-custom {
-  background-color: #4b0158;
+  background-color: #0f0158;
 }
 .navbar-custom .navbar-nav .nav-link,
 .navbar-custom .navbar-brand {
   color: white;
 }
 .navbar-custom .navbar-nav .nav-link.active {
-  color: #d3a0ff; /* Light purple for active link */
+  color: #2490b4; /* Light purple for active link */
 }
 .navbar-custom .navbar-nav .nav-link:hover,
 .navbar-custom .navbar-brand:hover {
@@ -193,7 +193,7 @@
 
 /* Style for active accordion item */
 .accordion-button:not(.collapsed) {
-  background-color: #d3a0ff; /* Light purple color */
+  background-color: #647cf4; /* Light purple color */
   color: #000; /* Change text color if needed */
 }
 
