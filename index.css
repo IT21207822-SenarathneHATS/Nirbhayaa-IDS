@@ -125,7 +125,7 @@
 }
 
 #Domain {
-  background-image: url('Images/domain_back.png'); /* Add your image URL */
+  background-image: url('Images/domain_back.png'); /* image URL */
   background-size: cover; /* Ensures the image covers the entire section */
   background-position: center; /* Centers the image */
   background-repeat: no-repeat; /* Prevents the image from repeating */
@@ -134,7 +134,7 @@
 }
 
 .section-3 {
-  background-image: url('Images/content_back.png'); /* Replace with your image path */
+  background-image: url('Images/content_back.png'); /* image path */
   background-size: cover; /* Ensures the image covers the entire section */
   background-position: center; /* Centers the image */
   background-repeat: no-repeat; /* Prevents the image from repeating */
@@ -143,7 +143,7 @@
 }
 
 #Tools {
-  background-image: url('Images/tools_back.png'); /* Replace with the path to your image */
+  background-image: url('Images/tools_back.png'); /* path to image */
   background-size: cover; /* Ensures the image covers the entire section */
   background-position: center; /* Centers the image */
   background-repeat: no-repeat; /* Prevents the image from repeating */
@@ -153,7 +153,7 @@
 
 
 #Team {
-  background-image: url('Images/team_back.png'); /* Replace with the path to your team background image */
+  background-image: url('Images/team_back.png'); /* path to team background image */
   background-size: cover; /* Ensures the image covers the entire section */
   background-position: center; /* Centers the image */
   background-repeat: no-repeat; /* Prevents the image from repeating */
@@ -171,7 +171,7 @@
 }
 
 #Home {
-  background-image: url('Images/background1.png'); /* Path to your background image */
+  background-image: url('Images/background1.png'); /* Path to bg image */
   background-size: cover; /* Ensure the image covers the section */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Prevent image repetition */
